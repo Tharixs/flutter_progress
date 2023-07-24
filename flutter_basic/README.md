@@ -5,4 +5,4 @@ this is only flutter ui code
 
 ##This is more or less how it looks on mobile
 
-![Result]{assets/ss.jpg}
+![Result](assets/ss.jpg)
